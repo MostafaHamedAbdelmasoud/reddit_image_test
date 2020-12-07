@@ -4,7 +4,10 @@ laravel test for crawling images
 ![](reddit.png)
 
 
-``` php artisan migrate:fresh --seed ``` 
+## run these scripts first:
+```
+php artisan migrate:fresh --seed 
+``` 
 
 ### for starting crawling reddit: enter with admin credentials and select start reddit crawling in navbar
 
